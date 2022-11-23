@@ -1,6 +1,16 @@
 # Linux
-## Linux_programming
+## Linux_programming_github ssh setting
 ###  -Reference : https://www.lainyzine.com/ko/article/creating-ssh-key-for-github/
+
+## Day4 - Process
+### - loop : ps,fg,bg,ctrl+z,ctrl+c,kill exam
+### - handleSignal : signal handler example
+### - alarm : signal generater
+### - time : systemtime
+
+## Day6 - MultiProcessing
+### - fork : new precess generation
+### - vfork : same fork function, but because it uses exec(), it does not copy everything to the text area.
 
 ## Day7 - Multiplexing example 
 ### - select function
