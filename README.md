@@ -4,9 +4,9 @@
 
 # Day7
 ## Multiplexing example 
-## - select function
-## - select_server & tcp_client
-## - select_server & select_client changed for advanced
+### - select function
+### - select_server & tcp_client
+### - select_server & select_client changed for advanced
 
 ##  webserver
 ### 1.down- wget http://valenties.pe.kr/webserver.c
