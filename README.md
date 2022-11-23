@@ -1,6 +1,6 @@
 # Linux
-# Linux_programming
-#  -Reference : https://www.lainyzine.com/ko/article/creating-ssh-key-for-github/
+## Linux_programming
+###  -Reference : https://www.lainyzine.com/ko/article/creating-ssh-key-for-github/
 
 # Day7
 ## Multiplexing example 
